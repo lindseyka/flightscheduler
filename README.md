@@ -6,7 +6,7 @@ Flight Scheduler is a comprehensive, user-friendly website and application that 
 
 Unit/Company schedulers and approval authorities will find Flight Scheduler significantly decreases their workload while increasing ease of access. Unique user permissions allow authorized personnel to view/approve schedule requests, and push out new schedules to whole units or individual affected crewmembers. Schedule is stored in the cloud for redundancy, and can be set to automatically backup to an offline server for ultimate security. Give it a try today - Flight Scheduler will always be free and fully-featured.
 
-www.flight-scheduler.com
+www.flight-scheduler.com <br>
 http://facebook.com/flightscheduler
 
 ## Copyright and License

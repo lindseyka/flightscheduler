@@ -2,19 +2,10 @@
 
 ## About
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+Flight Scheduler is a comprehensive, user-friendly website and application that can be used on all platforms in order to streamline the flight scheduling process at military units, flight schools, and FBOs. Major features include being able to view the current schedule from anywhere (schedule is in the cloud), request flights, let your unit scheduler know of an upcoming flight physical or other appointment. Schedule can be viewed in multiple formats (day/week/month), or you can view just your own individual schedule. Get notifications pushed to your device when any changes that affect you are made, so you are never blindsided again.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Unit/Company schedulers and approval authorities will find Flight Scheduler significantly decreases their workload while increasing ease of access. Unique user permissions allow authorized personnel to view/approve schedule requests, and push out new schedules to whole units or individual affected crewmembers. Schedule is stored in the cloud for redundancy, and can be set to automatically backup to an offline server for ultimate security. Give it a try today - Flight Scheduler will always be free and fully-featured.
 
 ## Copyright and License
 
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2017 Flight Scheduler LLC. 

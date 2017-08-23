@@ -34,7 +34,7 @@ body{-webkit-tap-highlight-color:#1a8cff}
 #mainNav.navbar-shrink{padding-top:0;padding-bottom:0;background-color:#222}
 #mainNav.navbar-shrink .navbar-brand{font-size:1.25em;padding:12px 0}}
 
-header.masthead{text-align:center;color:#fff;background-image:url(../img/tour.jpeg);background-repeat:no-repeat;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
+header.masthead{text-align:center;color:#fff;background-image:url(../img/3.jpeg);background-repeat:no-repeat;background-attachment:scroll;background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
 header.masthead .intro-text{padding-top:150px;padding-bottom:100px}
 header.masthead .intro-text .intro-lead-in{font-size:22px;font-style:italic;line-height:22px;margin-bottom:25px;font-family:'Droid Serif','Helvetica Neue',Helvetica,Arial,sans-serif}
 header.masthead .intro-text .intro-heading{font-size:50px;font-weight:700;line-height:50px;margin-bottom:25px;font-family:Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;text-transform:uppercase}
@@ -170,7 +170,7 @@ ul.list-inline{margin-top:0;margin-bottom:30px}
 .team-member h4{margin-top:25px;margin-bottom:0;text-transform:none}
 .team-member p{margin-top:0}
 
-section#contact{background-color:#222;background-image:url(../img/aircraft.jpg);background-repeat:no-repeat;background-position:center}
+section#contact{background-color:#222;background-image:url(../img/tour.jpg);background-repeat:no-repeat;background-position:center}
 section#contact 
 .section-heading{color:#333}
 section#contact .form-group{margin-bottom:25px}
